@@ -15,7 +15,7 @@
        <table width="466" height="326" border="1">
   <tr>
     <td width="277" rowspan="4"><img src="../Pictures/Mar.jpg" width="277" height="329" alt="Marita" /></td>
-    <td width="173" colspan="2" bordercolor="#0000FF" bgcolor="#FF6666">Nombre: Marita </td>
+    <td width="173" colspan="2" bordercolor="#0000FF" bgcolor="#FF6666">Nombre del Usuario: Marita </td>
   </tr>
   <tr>
     <td colspan="2" bordercolor="#0000FF" bgcolor="#FF6666">Sexo:
